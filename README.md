@@ -1,2 +1,3 @@
 # bookbot
-a bot to procees books
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
